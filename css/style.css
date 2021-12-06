@@ -12,21 +12,22 @@ p{
   background-color: crimson;
 }
 
-element1 {
+.first{
   color:yellow;
 }
 
-element2{
+.second{
   color: brown;
 }
-element3{
+.third{
   color:green;
 }
 
-element4{
+.fourth{
+  
   color:pink;
 }
 
-element5{
+.fifth{
   color: orange;
 }
